@@ -48,4 +48,3 @@ y_pred = (y_prob>0.5).astype('int8')
 
 acc = (y_test == y_pred).mean()
 print(acc)
-
