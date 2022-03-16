@@ -25,5 +25,5 @@ x_train.shape, x_eval.shape, y_train.shape, y_eval.shape
 lgs = LogisticRegression(class_weight = 'balanced')
 lgs.fit(x_train, y_train)
 
-# 영화 리뷰 데이터 감성 분석 결과
+# 영화 리뷰 데이터 감성 분석 정확도
 print('Accuracy: {:.4f}'.format(lgs.score(x_eval, y_eval)))

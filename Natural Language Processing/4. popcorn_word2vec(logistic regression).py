@@ -61,7 +61,10 @@ x_train, x_eval, y_train, y_eval = train_test_split(x_feat, y_target, test_size=
 # x_train.shape, x_eval.shape, y_train.shape, y_eval.shape
 # ((20000, 100), (5000, 100), (20000,), (5000,))
 
+# ======================================================
 lgs = LogisticRegression(class_weight = 'balanced', max_iter=500)
 lgs.fit(x_train, y_train)
 
+# ======================================================
+# 영화 리뷰 데이터 감성 분석 정확도
 print('Accuracy: {:.4f}'.format(lgs.score(x_eval, y_eval)))
