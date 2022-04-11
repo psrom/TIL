@@ -23,7 +23,7 @@ okt = Okt()
 clean_train = []
 
 def preprocessing(review, okt, remove_stopwords = False, stop_words = []):
-    review_text = re.sub("[^가-힣ㄱ-ㅎㅏ-ㅣ\s","", review) # 한글을 제외한 문자들 공백으로 치환
+    review_text = re.sub("[^가-힣ㄱ-ㅎㅏ-ㅣ\\s","", review) # 한글을 제외한 문자들 공백으로 치환
     word_review = okt.morphs(review_text, stem=True)
 
     if remove_stopwords:
