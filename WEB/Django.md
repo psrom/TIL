@@ -50,3 +50,44 @@ __Django__ : Battery Included => 모든 게 다 있다
 __데이터 베이스를 바꾸려면__...
 
 - settings.py에서 DATABASES 수정
+
+
+
+### 
+
+## 참고
+
+### Asyncronous Gateway Interface :left_right_arrow: Syncronous
+
+Async(비동기적) vs. sync(동기적)
+
+```python
+# Process
+f = open("", r)
+contents = f.read()
+print(contents) # 10초
+
+f2 = open("", r)
+contents2 = f2.read()
+print(contents2) # 3초
+
+# Async(비동기): 10s (nodejs)
+# sync(동기): 13s
+```
+
+__NIO__: Request/ Response도 파일로 Input, Output __file__ 관리
+
+```python
+for i in range(10):
+    resp = requests.get(url) #3초
+    
+# sync(동기): 30s
+# async(비동기): 4s
+```
+
+---
+
+
+
+
+
