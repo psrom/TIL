@@ -58,7 +58,7 @@ FROM Customers;
 --국가가 France인 고객 조회
 SELECT *
 FROM Customers
-Where Country="France";
+WHERE Country="France";
 ```
 
 ```sql
@@ -161,6 +161,8 @@ FROM Customers
 WHERE Country='France';
 ```
 
+### GROUP BY
+
 ```sql
 --Q. 국가 별 고객수 조회(고객수 기준 오름차순)
 --: 국가명, 고객수 
@@ -221,6 +223,15 @@ GROUP BY CategoryName, Country, City
 HAVING COUNT(*) >= 2;
 
 --Q. 주문자, 주문정보, 직원정보, 배송자정보 통합 조회: 고객컬럼 전체, 주문정보 컬럼 전체(order, orderDetail)
+
+SELECT *
+FROM Orders AS O
+JOIN OrderDetails AS OD
+ON O.OrderID = OD.OrderID
+JOIN Customers AS C
+ON O.CustomerID = C.CustomerID
+JOIN Shippers AS S
+ON S.ShipperID = O.ShipperID
 ```
 
 ### INSERT

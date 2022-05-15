@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
-from .models import Board
+from .models import Board, Comment
 # Create your views here.
 
 
@@ -34,4 +34,6 @@ def board_write(request):
 def board_detail(request, board_id):
     print(board_id)
     board = Board.objects.get(id=board_id)
-    return render(request, "board_detail.html", {"board": board})
+    comments = board.comment_list.all()
+    # comments = Comment.objects.filter(board_id = board).all()
+    return render(request, "board_detail.html", {"board": board, "comments":comments})
