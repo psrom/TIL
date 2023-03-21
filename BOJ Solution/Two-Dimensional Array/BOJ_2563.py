@@ -1,10 +1,14 @@
 # 색종이 붙이기
 n = int(input()) # 색종이 개수
-w_area = n * 100 # 색종이 크기
 
-# ==========================
-papers = [list(map(int, input().split())) for _ in range(n)]
+papers = [[0]*100 for _ in range(100)]
+for _ in range(n):
+    x, y = map(int, input().split())
+    for i in range(10):
+        for j in range(10):
+            papers[x+i][y+j] = 1
 
-for i in range(n):
-    for j in range(2):
-        # print(papers[i][j])
+result = 0
+for i in papers:
+    result += sum(i)
+print(result)
