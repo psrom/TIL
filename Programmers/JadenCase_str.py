@@ -1,3 +1,5 @@
+# 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12951
+
 # .capitalize()
 # .capwords(): capitalize + split + join
 
