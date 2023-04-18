@@ -1,9 +1,6 @@
 # 그림으로 배우는 JAVA(객체지향 입문)
 
 YouTube: https://www.youtube.com/playlist?list=PLyebPLlVYXCiKweTN4a-xePbbY1Ta6Yu9
-날짜: 2023년 4월 13일 → 2023년 4월 18일
-완료: 완료
-태그: JAVA
 
 # 01 OOP
 
