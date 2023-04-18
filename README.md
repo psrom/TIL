@@ -2,7 +2,7 @@
 
 <details>
 <summary> ProDS 중급</summary>
-- 삼성전자에서 시행하는 Data 처리 및 분석 역량을 평가하는 시험 대비
+삼성전자에서 시행하는 Data 처리 및 분석 역량을 평가하는 시험 대비
  </details>
  
 <details>
@@ -24,8 +24,14 @@
 ## 🧠 Deep Learning(DL, ML)
 <details>
 <summary>딥러닝 이론 및 코드 정리</summary>
-    - mnist데이터를 활용한 CNN, LSTM, RNN
+mnist데이터를 활용한 CNN, LSTM, RNN
 </details>
+
+<br>
+
+## 💻 Java
+
+Java 언어 공부 및 연습 문제 풀이
 
 <br>
 
@@ -34,7 +40,6 @@
 자연어 처리와 관련된 이론 정리 및 신경망 학습
 
 <br>
-
 
 
 ## 🌐 WEB
