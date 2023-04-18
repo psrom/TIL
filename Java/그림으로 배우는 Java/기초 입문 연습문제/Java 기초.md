@@ -1,5 +1,7 @@
 # 그림으로 배우는 JAVA(기초 입문)
 
+YouTube: https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu
+
 # 01 자바의 특징
 
 - 객체 지향 프로그래밍(object-oriented programming): 유지, 보수에 용이
@@ -315,8 +317,3 @@ for (int i = 0; i < names.length; i++) {
 	System.out.printf("%s : %d\n", names[i], scores[i]);
 }
 ```
-
-<aside>
-💡 강의 주소: [https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu](https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu)
-
-</aside>
