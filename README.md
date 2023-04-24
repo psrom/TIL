@@ -29,9 +29,20 @@ mnist데이터를 활용한 CNN, LSTM, RNN
 
 <br>
 
+## Front
+HTML, CSS, JS 내용 정리
+<details> <summary> 수강 강의 </summary>
+- 홍팍 HTML-CSS 입문 강의(강좌): https://www.youtube.com/playlist?list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-
+</details>
+
 ## 💻 Java
 
 Java 언어 공부 및 연습 문제 풀이
+<details> <summary> 수강 강의 </summary>
+- Do it! 자바 프로그래밍 입문: https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj <br>
+- 홍팍 그림으로 배우는 자바(2019, 기초 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu <br>
+- 홍팍 그림으로 배우는 자바(2019, 객체 지향 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCiKweTN4a-xePbbY1Ta6Yu9
+</details>
 
 <br>
 
