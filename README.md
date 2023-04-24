@@ -29,11 +29,13 @@ mnist데이터를 활용한 CNN, LSTM, RNN
 
 <br>
 
-## Front
+## 📔 Front
 HTML, CSS, JS 내용 정리
 <details> <summary> 수강 강의 </summary>
 - 홍팍 HTML-CSS 입문 강의(강좌): https://www.youtube.com/playlist?list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-
 </details>
+
+<br>
 
 ## 💻 Java
 
