@@ -1,0 +1,13 @@
+.main {
+    color: palevioletred;
+}
+
+.sub {
+    color: rgb(48, 115, 190);
+}
+
+#useless {
+    color: red;
+    font-size: 35px;
+    font-weight: bold;
+}

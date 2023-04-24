@@ -1,0 +1,12 @@
+li.key {
+    color: rgb(44, 86, 223);
+}
+
+ul li {
+    font-style: italic;
+}
+
+li:hover {
+    background-color: darkslateblue;
+    color: white;
+  }
