@@ -1,0 +1,26 @@
+.logo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.inputs {
+    position: fixed;
+    top: calc(50% + 50px);
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+} 
+
+.inputs input {
+    width: 150px;
+}
+
+.buttons {
+    position: fixed;
+    top: calc(50% + 100px);
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+}
