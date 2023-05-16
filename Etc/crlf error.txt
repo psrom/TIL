@@ -1,0 +1,4 @@
+# Whitespace 에러
+
+`git config --global core.autocrlf true`
+입력시 해결 가능
