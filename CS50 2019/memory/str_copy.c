@@ -19,6 +19,6 @@ int main(void)
 
     t[0] = toupper(t[0]);
 
-    printf("%s\n", s);
-    printf("%s\n", t);
+    printf("%s\n", s); // emma
+    printf("%s\n", t); // Emma
 }
