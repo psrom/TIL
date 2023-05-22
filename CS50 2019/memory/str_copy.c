@@ -21,4 +21,6 @@ int main(void)
 
     printf("%s\n", s); // emma
     printf("%s\n", t); // Emma
+
+    free(t);
 }
