@@ -1,0 +1,26 @@
+태그 삭제, 자식 태그 추가 
+- document Object => (못찾으면) DOM Object
+
+웹 브라우저 제어(ex. 웹 페이지 주소 알아내기, 새 창 열기)
+- windows object property or method
+
+웹 페이지 새로고침 없이 정보 변경(ex. 인스타 하트)
+- ajax
+
+웹 페이지가 새로고침 되어도 현상태 유지
+- cookie
+
+인터넷이 끊겨도 동작하는 웹 페이지
+-offline web application
+
+화상 통신 웹/앱
+- webRTC
+
+음성인식/음성 관련
+- speech
+
+3차원 그래픽
+-webGL
+
+가상현실
+-webVR
