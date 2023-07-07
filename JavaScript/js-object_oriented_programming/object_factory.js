@@ -22,5 +22,3 @@ console.log('d1.getFullYear()', d1.getFullYear());
 console.log('d1.getMonth()', d1.getMonth());
 
 console.log('Date', Date);
-
-
