@@ -1,8 +1,7 @@
-function Person(name, first, second, third){
+function Person(name, first, second){
     this.name=name;
     this.first=first;
     this.second=second;
-    this.third=third;
 }
 
 Person.prototype.sum = function(){
