@@ -5,6 +5,8 @@ function sum(prefix){
 }
 // sum();
 
-console.log("sum.call(kim): ", sum.call(kim, '=>'));
-console.log("sum.call(lee): ", sum.call(lee, ': '));
+console.log("sum.call(kim)", sum.call(kim, '=>'));
+console.log("sum.call(lee)", sum.call(lee, ': '));
+var kimSum = sum.bind(kim, '->');
+console.log("kimSum() ", kimSum());
 
