@@ -5,8 +5,8 @@ function sum(prefix){
 }
 // sum();
 
-console.log("sum.call(kim)", sum.call(kim, '=>'));
+console.log("sum.call(kim)", sum.call(kim, '=>')); // .call() 함수 내의 this를 바꾼다
 console.log("sum.call(lee)", sum.call(lee, ': '));
-var kimSum = sum.bind(kim, '->');
+var kimSum = sum.bind(kim, '->'); // .bind 새로운 함수를 만든다
 console.log("kimSum() ", kimSum());
 
