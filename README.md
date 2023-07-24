@@ -1,8 +1,11 @@
 ## 📔 Front
 :one:HTML :two:CSS :three:JS
 <details> <summary> 수강 강의 </summary>
-- 홍팍 HTML-CSS 입문 강의(강좌): https://www.youtube.com/playlist?list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-
+ 
+- 홍팍 HTML/CSS 입문 강의(강좌): https://www.youtube.com/playlist?list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-
+- 생활코딩 JS 강의: www.boostcourse.org/cs124
 </details>
+
 
 <br>
 
@@ -10,9 +13,10 @@
 :one: Java :two: Spring
 
 <details> <summary> 수강 강의 </summary>
-- Do it! 자바 프로그래밍 입문: https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj <br>
-- 홍팍 그림으로 배우는 자바(2019, 기초 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu <br>
-- 홍팍 그림으로 배우는 자바(2019, 객체 지향 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCiKweTN4a-xePbbY1Ta6Yu9 <br>
+ 
+- Do it! 자바 프로그래밍 입문: https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj
+- 홍팍 그림으로 배우는 자바(2019, 기초 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu
+- 홍팍 그림으로 배우는 자바(2019, 객체 지향 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCiKweTN4a-xePbbY1Ta6Yu9
 - 홍팍 스프링 부트, 입문!: https://www.youtube.com/playlist?list=PLyebPLlVYXCiYdYaWRKgCqvnCFrLEANXt
 </details>
 
