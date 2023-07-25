@@ -10,7 +10,7 @@
 <br>
 
 ## 💻 Back
-:one: Java :two: Spring
+1️⃣Java 2️⃣Spring 3️⃣Node.js
 
 <details> <summary> 수강 강의 </summary>
  
@@ -18,6 +18,7 @@
 - 홍팍 그림으로 배우는 자바(2019, 기초 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCgb5B-toSOvivS1RChZLnNu
 - 홍팍 그림으로 배우는 자바(2019, 객체 지향 입문 문제풀이): https://www.youtube.com/playlist?list=PLyebPLlVYXCiKweTN4a-xePbbY1Ta6Yu9
 - 홍팍 스프링 부트, 입문!: https://www.youtube.com/playlist?list=PLyebPLlVYXCiYdYaWRKgCqvnCFrLEANXt
+- 생활코딩 Node.js 강의: https://opentutorials.org/module/3549
 </details>
 
 <br>
