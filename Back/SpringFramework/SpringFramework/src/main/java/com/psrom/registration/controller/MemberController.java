@@ -1,6 +1,6 @@
 package com.psrom.registration.controller;
 
-import com.psrom.registration.DTO.MemberDTO;
+import com.psrom.registration.dto.MemberDTO;
 import com.psrom.registration.service.MemberService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;

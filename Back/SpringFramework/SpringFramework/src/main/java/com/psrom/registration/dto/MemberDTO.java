@@ -1,4 +1,4 @@
-package com.psrom.registration.DTO;
+package com.psrom.registration.dto;
 
 import lombok.Getter;
 import lombok.Setter;
