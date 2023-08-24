@@ -5,6 +5,7 @@ import lombok.RequiredArgsConstructor;
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.stereotype.Repository;
 
+import java.lang.reflect.Member;
 import java.util.List;
 
 @Repository
@@ -22,5 +23,9 @@ public class MemberRepository {
 
     public List<MemberDTO> findAll() {
         return sql.selectList("Member.findAll");
+    }
+
+    public MemberDTO findById(Long id) {
+        return sql.selectOne("Member.findById", id);
     }
 }
