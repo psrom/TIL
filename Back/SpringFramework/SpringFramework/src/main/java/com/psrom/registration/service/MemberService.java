@@ -5,6 +5,7 @@ import com.psrom.registration.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.lang.reflect.Member;
 import java.util.List;
 
 @Service
@@ -27,5 +28,9 @@ public class MemberService {
 
     public List<MemberDTO> findAll() {
         return memberRepository.findAll();
+    }
+
+    public MemberDTO findById(Long id) {
+        return memberRepository.findById(id);
     }
 }
