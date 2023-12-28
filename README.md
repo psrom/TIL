@@ -1,5 +1,5 @@
-## 📔 Front
-:one:HTML :two:CSS :three:JS
+## 🖥️ Front
+𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐒
 <details> <summary> 수강 강의 </summary>
  
 - 홍팍 HTML/CSS 입문 강의(강좌): https://www.youtube.com/playlist?list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-
@@ -9,8 +9,8 @@
 
 <br>
 
-## 💻 Back
-1️⃣Java 2️⃣Spring 3️⃣Node.js
+## 🏗️ Back
+𝐉𝐚𝐯𝐚 | 𝐒𝐩𝐫𝐢𝐧𝐠 | 𝐍𝐨𝐝𝐞.𝐣𝐬
 
 <details> <summary> 수강 강의 </summary>
  
